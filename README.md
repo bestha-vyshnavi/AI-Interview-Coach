@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+👉 [Try InterviewIQ Live](https://ai-interview-coach-uehztua3hpt3fdcvwg9zvm.streamlit.app/)
+
+
+
 # 🎯 InterviewIQ — AI Interview Coach
 
 InterviewIQ is an interactive interview practice application designed
